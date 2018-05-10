@@ -1,0 +1,4 @@
+public void pular()
+{
+  player.jump(15);
+}
